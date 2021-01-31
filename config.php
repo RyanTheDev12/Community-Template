@@ -136,7 +136,7 @@
 			"date" => "06/30/2020", /* In M-D-Y format */
 		],
 	];
-	/* END NEWS PAGE */
+	/* END NEWS PAGE! */
 
 
 	/* RANDOM PHP FUNCTIONS AND JOBS */
