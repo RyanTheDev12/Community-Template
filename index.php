@@ -521,7 +521,6 @@
   				changetext.innerHTML = "Click to copy IP";
   			}, 3000);
 		}
-
 		function dropDown() {
 			var dropdown = document.getElementById("dropdown");
 			var dropdownbtn = document.getElementById("dropdownbtn");
