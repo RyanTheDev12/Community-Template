@@ -208,7 +208,7 @@
 
 		.body {
 			display: flex;
-			height: 90vh;
+			height: 100vh;
 			width: 100%;
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -233,14 +233,12 @@
 
 		.body .screen {
 			display: flex;
-			height: 90vh;
+			height: 100vh;
 			width: 100%;
 			position: absolute;
 			z-index: 2;
-			background-image: linear-gradient(rgba(<?php echo $colorrgb ?>, .5), rgba(39, 43, 48, 1));
 			align-items: center;
 			justify-content: center;
-			text-align: center;
 		}
 
 		.body .screen .spacer {
